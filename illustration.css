@@ -1,0 +1,22 @@
+*{
+margin:0px;
+}
+
+body{
+background: black;
+}
+
+h1{
+color:yellow;
+display:none;
+font-size: 100px;
+text-align: center;
+position: absolute;
+left:25%;
+top: 200px;
+font-family: "Trattatello";
+}
+
+.content{
+display:none;
+}
